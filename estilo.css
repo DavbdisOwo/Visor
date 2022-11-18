@@ -1,0 +1,55 @@
+*{
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    color: aliceblue;
+}
+
+*{
+    background-color: rgba(2, 0, 47, 0.601);
+    color: black;
+}
+
+#cabecera{
+    font: bold 1.3em Vedana;
+    font-weight: bold;
+    font-size: 1.3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+    padding:0.5em;
+    background-color: rgb(8, 54, 95);
+}
+
+h3{
+    color: aqua;
+}
+
+#menu{
+    float: left;
+    width: 25%;
+    background-color: black;
+}
+
+#menu img{
+    width: 35%;
+    margin: 5%;
+    cursor:pointer;
+}
+
+#principal{
+    float: left;
+    width: 75%;
+}
+
+#visor{
+    width: 60%;
+    margin: 10%;
+}
+
+#visor img{
+    width: 100%;
+}
